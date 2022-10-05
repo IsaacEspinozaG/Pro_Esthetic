@@ -1,0 +1,1 @@
+Insert into clientes (Nombre_Cliente, Telefono) Values (Jesus, 66543421)
